@@ -5,7 +5,7 @@ python script for Nuke.
 
 ### init.py
 ```python
-nuke.pluginAddPath('./path') # path= The path of openDotNuke.py file rea]lative to .nuke folder
+nuke.pluginAddPath('./path') # path= The path of openDotNuke.py file relative to .nuke folder
 ```
 
 ### menu.py
