@@ -1,6 +1,3 @@
-# open the .nuke folder
-python script for Nuke.
-
 ## Installation example
 
 ### init.py
