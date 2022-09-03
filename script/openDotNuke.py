@@ -37,7 +37,7 @@ def openDotNuke():
     path = os.getenv('HOME') + "/.nuke"
     openExplorer(path)
 
-# open  nuke installation directory
+# open nuke installation directory
 def openExePath():
     path = os.path.dirname(nuke.EXE_PATH)
     openExplorer(path)
