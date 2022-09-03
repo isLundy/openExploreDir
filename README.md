@@ -1,6 +1,7 @@
 ## Installation example
 
 ### init.py
+> example
 ```python
 import nuke
 
@@ -8,6 +9,7 @@ nuke.pluginAddPath('./path') # path= The path of openDotNuke.py file relative to
 ```
 
 ### menu.py
+> example
 ```python
 import nuke
 import openDotNuke
