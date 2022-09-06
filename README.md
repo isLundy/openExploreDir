@@ -10,7 +10,7 @@ The name and code of the script have been all changed by me and republished on N
 
 `Feature`: 
 
-open the directory of the current project and the file directory of the read node # shortcut: Shift + B
+open the directory of the current project or the file directory of the read node # shortcut: Shift + B
 
 open .nuke directory # shortcut: Shift + 0
 
