@@ -4,7 +4,7 @@ Original name: winExploreDir.
 
 Original author: code written by Thorsten, release by Varun Hadkar.
 
-Name and code have been all changed by me and republished on NukePedia, new features added and available for Windows, Linux, Mac.
+The name and code of the script have been all changed by me and republished on NukePedia, new features added and available for Windows, Linux, Mac.
 
 <br />
 
@@ -23,7 +23,7 @@ open nuke installation directory
 ```python
 import nuke
 
-nuke.pluginAddPath('./directory') # directory = The path of openExploreDir.py file relative to .nuke folder
+nuke.pluginAddPath('./openExploreDir') # openExploreDir = The path of openExploreDir.py file relative to .nuke folder
 ```
 
 ### menu.py
