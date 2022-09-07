@@ -18,6 +18,8 @@ open nuke installation directory
 
 ## Installation example
 
+<br />
+
 ### init.py
 > example
 ```python
