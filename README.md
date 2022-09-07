@@ -16,10 +16,9 @@ open .nuke directory # shortcut: Shift + 0
 
 open nuke installation directory
 
-## Installation example
-
 <br />
 
+## Installation example
 ### init.py
 > example
 ```python
