@@ -12,9 +12,9 @@ The name and code of the script all have been changed by me and republished on N
 
 open the directory of the current project or the file directory of the read node - - - - - - - shortcut: Shift + B
 
-open .nuke directory - - - - - - - shortcut: Shift + 0
+open the .nuke directory - - - - - - - shortcut: Shift + 0
 
-open nuke installation directory
+open the nuke installation directory
 
 <br />
 
