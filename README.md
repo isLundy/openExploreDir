@@ -2,7 +2,7 @@
 
 Original name: winExploreDir. 
 
-Original author: code written by Thorsten, release by Varun Hadkar.
+Original author: The code written by Thorsten and released by Varun Hadkar.
 
 The name and code of the script all have been changed by me and republished on NukePedia, new features added and available for Windows, Linux, Mac.
 
