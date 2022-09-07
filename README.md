@@ -8,7 +8,7 @@ The name and code of the script have all been changed by me and republished on N
 
 <br />
 
-`Feature`: 
+## Feature 
 
 open the directory of the current project or the file directory of the read node # shortcut: Shift + B
 
