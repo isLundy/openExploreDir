@@ -10,11 +10,11 @@ The name and code of the script all have been changed by me, new features added 
 
 ## Feature 
 
-open the directory of the current project or the file directory of the Read Node (or Write Node, ReadGeo Node, Camera Node, WriteGeo, etc)- - - - - - - shortcut: Shift + B
+open the directory of the `current project` or the file directory of the `Read` Node (or `Write` Node, `ReadGeo` Node, `Camera` Node, `WriteGeo`, etc)- - - - - - - shortcut: `Shift + B`
 
-open the .nuke directory - - - - - - - shortcut: Shift + 0
+open the `.nuke` directory - - - - - - - shortcut: `Shift + 0`
 
-open the nuke installation directory
+open the `nuke installation` directory
 
 <br />
 
