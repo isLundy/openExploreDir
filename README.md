@@ -24,7 +24,7 @@ open the `nuke installation` directory
 ```python
 import nuke
 
-nuke.pluginAddPath('./openExploreDir') # openExploreDir = The path of openExploreDir.py file relative to the .nuke folder
+nuke.pluginAddPath('./PythonScripts/openExploreDir') # openExploreDir = The path of openExploreDir.py file relative to the .nuke folder
 ```
 
 ### menu.py
