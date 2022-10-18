@@ -10,7 +10,7 @@ The name and code of the script all have been changed by me, `new features` adde
 
 ## Feature 
 
-open the directory of the `current project` or the file directory of the `Read` Node (or `Write` Node, `ReadGeo` Node, `Camera` Node, `WriteGeo`, etc)- - - - - - - shortcut: `Shift + B`
+open `current project` directory or node `file knob` directory (like `Write` Node, `ReadGeo` Node, `Camera` Node, `WriteGeo`, etc)- - - - - - - shortcut: `Shift + B`
 
 open the `.nuke` directory - - - - - - - shortcut: `Shift + 0`
 
