@@ -34,8 +34,8 @@ import nuke
 import openExploreDir
 
 s = nuke.menu("Nuke").addMenu("PythonScripts")
-i = s.addMenu("OpenExploreDir")
-i.addCommand("Open nk or file dir", "openExploreDir.openFileDir()", "+b")
-i.addCommand("Open .nuke dir", "openExploreDir.openDotNuke()", "+0")
-i.addCommand("Open nuke installation dir", "openExploreDir.openExePath()")
+h = s.addMenu("OpenExploreDir")
+h.addCommand("Open nk or file dir", "openExploreDir.openFileDir()", "+b")
+h.addCommand("Open .nuke dir", "openExploreDir.openDotNuke()", "+0")
+h.addCommand("Open nuke installation dir", "openExploreDir.openExePath()")
 ```
