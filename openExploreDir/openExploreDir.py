@@ -30,7 +30,8 @@ def openFileDir():
 
     else:
         path = os.path.dirname(nuke.root().name())
-        openExplorer(path)
+        if path:
+            openExplorer(path)
 
 # open .nuke directory
 def openDotNuke():
