@@ -36,6 +36,6 @@ Required: Nuke 13 or later
 <br />
 
 ## Installation
-You can directly install the [PythonScripts Toolkit for Nuke](https://github.com/isLundy/Nuke-PythonScripts-Toolkit.git), it shows in the `W_hotbox`.
+You can directly install the [PythonScripts Toolkit for Nuke](https://github.com/isLundy/Nuke-PythonScripts-Toolkit.git), it shows in the `PythonScripts` menu.
 
 ![installation](./images/installation.png)
