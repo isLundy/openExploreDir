@@ -30,6 +30,9 @@ open the `nuke installation` directory
 
 <br />
 
+## Usage
+Required: Nuke 13 or later
+
 ## Installation example
 ### init.py
 > example
