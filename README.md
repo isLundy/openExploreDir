@@ -35,24 +35,7 @@ Required: Nuke 13 or later
 
 <br />
 
-## Installation example
-### init.py
-> example
-```python
-import nuke
+## Installation
+You can directly install the [PythonScripts Toolkit for Nuke](https://github.com/isLundy/Nuke-PythonScripts-Toolkit.git), it shows in the `W_hotbox`.
 
-nuke.pluginAddPath('./PythonScripts/openExploreDir')
-```
-
-### menu.py
-> example
-```python
-import nuke
-import openExploreDir
-
-s = nuke.menu("Nuke").addMenu("PythonScripts")
-h = s.addMenu("OpenExploreDir")
-h.addCommand("Open nk or file dir", "openExploreDir.openFileDir()", "+b")
-h.addCommand("Open .nuke dir", "openExploreDir.openDotNuke()", "+0")
-h.addCommand("Open nuke installation dir", "openExploreDir.openExePath()")
-```
+![installation](./images/installation.png)
