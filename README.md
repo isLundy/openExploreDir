@@ -8,13 +8,21 @@ The name and code of the script all have been changed by me, `new features` adde
 
 <br />
 
-## Feature 
+## Features
 
-open the `current project` directory or the `file knob` directory of the selected node ( like `Read` Node, `Write` Node, `ReadGeo` Node, `Camera` Node, `WriteGeo` Node, `DeepRead` Node, etc ) - - - - - - - shortcut: `Shift + B`
+open the `current project` directory or the `file knob` directory of the selected node ( like `Read` Node, `Write` Node, `ReadGeo` Node, `Camera` Node, `WriteGeo` Node, `DeepRead` Node, etc )
 
-open the `.nuke` directory - - - - - - - shortcut: `Shift + 0` ( nubmer 0 )
+shortcut: `Shift + B`
 
-open the `nuke installation` directory - - - - - - -
+---
+
+open the `.nuke` directory
+
+shortcut: `Shift + 0` ( nubmer 0 )
+
+---
+
+open the `nuke installation` directory
 
 <br />
 
