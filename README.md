@@ -40,6 +40,6 @@ Required: Nuke 13 or later
 ## Installation
 You can install this script in your own way.
 
-Alternatively, you can directly install the [Nuke PythonScripts Toolkit](https://github.com/isLundy/Nuke-PythonScripts-Toolkit.git), where the script shows in the `PythonScripts` menu.
+Alternatively, you can directly install the [Nuke PythonScripts Toolkit](https://github.com/isLundy/Nuke-Python-Scripts-Toolkit.git), where the script shows in the `PythonScripts` menu.
 
 ![installation](./images/installation.png)
